@@ -7,7 +7,6 @@ Después del primer mensaje, se debe mostrar otro mensaje que diga "Soy el prime
 Añadir algunos comentarios que expliquen el funcionamiento del código
 Añadir en la página XHTML un mensaje de aviso para los navegadores que no tengan activado el soporte de JavaScript
 
-
 */
 
 
